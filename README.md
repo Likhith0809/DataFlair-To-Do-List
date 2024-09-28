@@ -6,9 +6,11 @@ The To-Do List Application is a Java project that allows users to manage tasks, 
   * Users can create new tasks, each with a title and a due date.
   * Tasks can be assigned to specific projects.
   * Existing tasks can be edited, marked as done, or removed.
+    
 2.Text-Based User Interface:
   * The application provides a command-line interface (CLI) for user interaction.
   * Users can perform various actions using text commands.
+    
 3.Persistence:
   * The application allows users to save their task list to a file.
   * Upon restarting the application, the previous state is restored from the saved file.
