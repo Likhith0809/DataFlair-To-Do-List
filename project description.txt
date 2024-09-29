@@ -1,0 +1,18 @@
+To-Do List Application
+
+Developed a feature-rich To-Do List application for Android using Java, which allows users to efficiently manage tasks with a simple and intuitive user interface.
+
+Key Features:
+
+Task Management: Users can easily add, view, and delete tasks, enabling effective organization of daily activities.
+SQLite Database Integration: Utilized SQLite for data persistence, implementing CRUD (Create, Read, Update, Delete) operations to store and manage tasks.
+User-Friendly Interface: Designed an engaging and responsive UI using Android's layout tools, providing a seamless user experience.
+Alert Dialogs for User Input: Employed alert dialogs for task entry, enhancing user interaction and simplifying the task addition process.
+Data Binding: Integrated an ArrayAdapter with ListView to dynamically update the task list in real-time as tasks are added or removed.
+Technologies Used:
+
+Android SDK
+Java
+SQLite
+XML for layout design
+Impact: This application not only improved personal productivity but also deepened my understanding of Android development and database management, preparing me for more complex software engineering projects.
